@@ -17,7 +17,8 @@ Bot hecho en BDFD el cual está inspirado en Ballsdex. Sistema automático de sp
 
 ## ¿Qué requiere el bot para funcionar?
 - Desarrollarlo en BDFD utilizando BDScript 2.
-- Creación de algunas variables las cuales se especificarán después
+- Creación de algunas variables las cuales [se especifican aquí](https://github.com/deozrammy/BDFD-Raidersdex/blob/main/VARIABLES.md)
+
 - Activar `Message Content Intents` en el portal de desarrolladores de discord.
 - Verificar que posea los permisos de rol necesarios dentro de tu servidor para que este funcione.
 
@@ -29,3 +30,5 @@ El bot en cuestión no debería de presentar ningún problema en su código, sim
 **Autor: https://github.com/deozrammy**
 
 **Discord user: @deozrammy**
+
+*Todo el código me pertenece*
