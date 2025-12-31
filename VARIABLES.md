@@ -23,14 +23,14 @@ Utilizamos variables para:
 # VARIABLES DE CONTEO/ESTADÍSTICA
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
-| progreso_temp | 0 | descripción breve |
-| capturas_totales | 0 | descripción breve |
+| progreso_temp | 0 | Registra el progreso total que llevas de balls |
+| capturas_totales | 0 | Registra las capturas totales que llevas de balls |
 
 # VARIABLES DE ECONOMÍA
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
-| dinero | 0 | cantidad de dinero que posee el usuario |
-| daily_cooldown | 0 | tiempo que debe de esperar para reclamar una recompensa diaria |
+| dinero | 0 | Cantidad de dinero que posee el usuario |
+| daily_cooldown | 0 | Tiempo que debe de esperar para reclamar una recompensa diaria |
 | tuitem | 0 | Debes crear una por cada item que hagas para la tienda (ej: `nitro`, `boost`). Almacena la cantidad que posee el usuario|
 
 # VARIABLES DE PERSONALIZACIÓN
