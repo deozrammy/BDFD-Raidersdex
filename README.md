@@ -1,6 +1,6 @@
 # BDFD-Raidersdex
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1455832821120630905/1455832854801158266/150_sin_titulo_20251231015906.png?ex=69562980&is=6954d800&hm=2ac38534fa9fa9c117523ad89b00e7fc8bcdb28e1da6ef5fae2f1ed68dca8cc6&" width="300">
+  <img src="https://cdn.discordapp.com/attachments/1455832821120630905/1456070489360437450/150_sin_titulo_20251231174414.png?ex=695706d1&is=6955b551&hm=353a6e363725784a122caec6d43b19d35b783ff067afb7c6b44f5870119657d9&" width="600">
 </p>
 
 Bot hecho en BDFD el cual está inspirado en Ballsdex. Sistema automático de spawn por mensajes en los chats, coleccionar raiderballs, visualizar las estadísticas de cartas, guardado de raiderballs, economía, tienda, personalización de perfil y mucho más.
