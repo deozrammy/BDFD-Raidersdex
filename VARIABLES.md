@@ -1,4 +1,7 @@
 # VARIABLES Y SUS USOS
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1455832821120630905/1455832854801158266/150_sin_titulo_20251231015906.png?ex=69562980&is=6954d800&hm=2ac38534fa9fa9c117523ad89b00e7fc8bcdb28e1da6ef5fae2f1ed68dca8cc6&" width="600">
+</p>
 
 ## Explicación breve sobre el uso de variables en este bot
 Utilizamos variables para:
@@ -12,7 +15,7 @@ Utilizamos variables para:
 
 ---
 
-# VARIABLES PRINCIPALES
+## VARIABLES PRINCIPALES
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
 | spawn_mensajes | 0 | Contador de mensajes necesarios para spawnear |
@@ -20,20 +23,20 @@ Utilizamos variables para:
 | ball_actual | none | Guarda el nombre de la raiderball que está activa para capturar |
 | nombredetuball| 0 | Debes crear una por cada ball que hagas (ej: `lazarus`, `venus`). Almacena la cantidad que posee el usuario |
 
-# VARIABLES DE CONTEO/ESTADÍSTICA
+## VARIABLES DE CONTEO/ESTADÍSTICA
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
 | progreso_temp | 0 | Registra el progreso total que llevas de balls |
 | capturas_totales | 0 | Registra las capturas totales que llevas de balls |
 
-# VARIABLES DE ECONOMÍA
+## VARIABLES DE ECONOMÍA
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
 | dinero | 0 | Cantidad de dinero que posee el usuario |
 | daily_cooldown | 0 | Tiempo que debe de esperar para reclamar una recompensa diaria |
 | tuitem | 0 | Debes crear una por cada item que hagas para la tienda (ej: `nitro`, `boost`). Almacena la cantidad que posee el usuario|
 
-# VARIABLES DE PERSONALIZACIÓN
+## VARIABLES DE PERSONALIZACIÓN
 | VARIABLE | VALOR | DESCRIPCIÓN |
 |---|---|---|
 | favorita | ninguna | Registra la ball favorita del usuario en su perfil |
