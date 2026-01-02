@@ -4,7 +4,7 @@ Debes de poner tu ID o el ID de los que quieras que puedan utilizar este comando
 ```
 $nomention
 $c[--- 1. SOLO EL DUEÑO PUEDE USARLO ---]
-$if[$authorID==849574544314466326]
+$if[$authorID==TU ID AQUÍ]
     
     $c[--- 2. VERIFICAR SI ESCRIBIÓ EL NOMBRE ---]
     $if[$message==]
